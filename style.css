@@ -1,0 +1,17 @@
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+}
+
+#leftCol {
+  position: fixed !important;
+}
+
+#pagelet_bookmark_nav,
+#pagelet_trending_tags_and_topics,
+#pagelet_ego_pane {
+  display: none !important;
+}
+
+.egoOrganicColumn {
+  padding: 0 !important;
+}

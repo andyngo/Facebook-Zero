@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Author</key>
+	<string>Andy Ngo</string>
+	<key>Builder Version</key>
+	<string>9537.74.9</string>
+	<key>CFBundleDisplayName</key>
+	<string>Facebook Zero</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.andyngo.facebookzero</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>Chrome</key>
+	<dict>
+		<key>Database Quota</key>
+		<real>1048576</real>
+	</dict>
+	<key>Content</key>
+	<dict>
+		<key>Scripts</key>
+		<dict/>
+		<key>Stylesheets</key>
+		<array>
+			<string>style.css</string>
+		</array>
+	</dict>
+	<key>Description</key>
+	<string>Remove ads and clutter on Facebook.com</string>
+	<key>ExtensionInfoDictionaryVersion</key>
+	<string>1.0</string>
+	<key>Permissions</key>
+	<dict>
+		<key>Website Access</key>
+		<dict>
+			<key>Allowed Domains</key>
+			<array>
+				<string>https://www.facebook.com/</string>
+				<string>www.facebook.com</string>
+			</array>
+			<key>Include Secure Pages</key>
+			<true/>
+			<key>Level</key>
+			<string>Some</string>
+		</dict>
+	</dict>
+	<key>Website</key>
+	<string>http://andyngo.me</string>
+</dict>
+</plist>
