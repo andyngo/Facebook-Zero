@@ -8,8 +8,13 @@ body {
 
 #pagelet_bookmark_nav,
 #pagelet_trending_tags_and_topics,
-#pagelet_ego_pane {
+#pagelet_ego_pane,
+.tickerToggleWrapper {
   display: none !important;
+}
+
+._5qrt {
+  border-top: none !important;
 }
 
 .egoOrganicColumn {

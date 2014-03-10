@@ -7,3 +7,4 @@ Safari Extension to clean Facebook.com's UI.
 - Removed Groups, Pages etc from left sidebar
 - Left sidebar is now sticky (position: fixed;)
 - Removed ads, Recommended Pages etc from right column
+- Hid ticker
